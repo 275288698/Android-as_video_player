@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">video_player</string>
+    <string name="pause">暂停</string>
+    <string name="play">播放</string>
+    <string name="Video_Player">Video Player</string>
+    <string name="forward_page">进入播放页</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
